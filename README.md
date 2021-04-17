@@ -1,4 +1,4 @@
-### Hello 👋, I am [Sivin Varghese](https://www.sivin.me/)
+### Hi 👋, I am [Sivin Varghese](https://www.sivin.me/)
 
 <!--
 **iamsivin/iamsivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
