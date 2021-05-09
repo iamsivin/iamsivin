@@ -1,4 +1,4 @@
-### H! there 👋, 
+### H! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
  !am [Sivin Varghese](https://www.sivin.me/)
 
 <!--
