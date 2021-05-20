@@ -1,5 +1,5 @@
 ### H! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">•
-Iam [Sivin Varghese.](https://www.sivin.me/)
+iam [Sivin Varghese.](https://www.sivin.me/)
 
 
 <!--
