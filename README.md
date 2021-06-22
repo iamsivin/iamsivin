@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 -->
 ---
 <p align="center">
-<a href="mailto:iamsivin@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/sivin-varghese-021a471a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>
-<!-- <a href="https://t.me/" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a> -->
-<a href="https://www.instagram.com/siv.__in/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white"></a>
-<a href="https://twitter.com/sivin_varghese" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white"></a>
-<!-- <a href="https://www.youtube.com" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"></a>
-</p> -->
+<a href="mailto:iamsivin@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sivin-varghese-021a471a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/siv.__in/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/sivin_varghese" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://dribbble.com/sivin-git" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
 
----
