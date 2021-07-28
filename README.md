@@ -1,4 +1,4 @@
-### **H! there** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">•
+### **`H! there`** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">•
 `!am Sivin Varghese.`
 
 <!--
