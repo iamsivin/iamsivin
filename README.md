@@ -1,5 +1,5 @@
 ### **`H! there`** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-`!am Sivin Varghese.`
+`!am Sivin Varghese`
 <!--
 **iamsivin/iamsivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
