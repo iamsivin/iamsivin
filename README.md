@@ -1,10 +1,5 @@
 ### **`Hey there`** <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="20px">
 `!am Sivin Varghese.`
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iamsivin&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
- 
  
 ---
 <p align="center">
