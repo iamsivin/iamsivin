@@ -1,7 +1,7 @@
 ### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="20px">
 `I'm Sivin Varghese`
 
-- 🔭 I’m currently working on [@chatwoot](https://github.com/chatwoot/chatwoot) as Product developer.
+- 🔭 I’m currently working on [@chatwoot](https://github.com/chatwoot/chatwoot) as a Product developer.
  
 ---
 <p align="center">
