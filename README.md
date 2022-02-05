@@ -1,8 +1,9 @@
 ### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="20px">
 `I'm Sivin Varghese`
 
-- 🔭 I’m currently working on [@chatwoot](https://github.com/chatwoot/chatwoot) as a Product developer.
+- 🧑🏻‍💻 A self-taught front-end developer.
 - 🕸 Focusing on building things for the web.
+- 🔭 I’m currently working on [@chatwoot](https://github.com/chatwoot/chatwoot) as a Product developer.
  
 ---
 <p align="center">
