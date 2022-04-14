@@ -2,7 +2,7 @@
 [`I'm Sivin Varghese`](https://www.sivin.me)
 
 - 🕸 Focuses on building things for the web.
-- 🔭 I’m currently working on [@chatwoot](https://github.com/chatwoot/chatwoot) as a Product developer.
+- 🔭 I’m currently working on [@Chatwoot](https://github.com/chatwoot/chatwoot) as a Product developer.
  
 ---
 <p align="center">
