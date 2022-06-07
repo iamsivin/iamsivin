@@ -1,4 +1,4 @@
-### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="20px">
+### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30px" height="30px">
 [`I'm Sivin Varghese`](https://www.sivin.me)
 
 - 🕸 Focuses on building things for the web.
