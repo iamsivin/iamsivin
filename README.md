@@ -5,8 +5,8 @@
 I’m a **Product Developer** focused on building thoughtful, scalable experiences for the web.
 
 * 🕸 Crafting modern web applications with attention to detail
-* 🔭 Currently building at **Chatwoot** as a Product Developer
-* 💡 Interested in product-driven engineering, UX, and open source
+* 🔭 Currently building at **[@Chatwoot](https://github.com/chatwoot)** as a Product Developer
+* 💡 Interested in product-driven engineering, UI/UX, and open source
 
 
 <p align="start">
